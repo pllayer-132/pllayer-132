@@ -8,10 +8,12 @@
 
 [my ata!](https://calindean.atabook.org/)
 
+Usually in class so w2i...
 
-<img src="https://i.imgur.com/HZhAnBH.png" width="15"/> I like sitting & talking with people so lmk if you want to be left alone!
 
-<img src="https://i.imgur.com/HZhAnBH.png" width="15"/> Usually in class so w2i...
+
+<img src="https://c.tenor.com/eMAQtbWpyKIAAAAC/tenor.gif" width="100"/>
+
 
 
 <img src="https://dividers.crd.co/assets/images/gallery06/1a56c58f.png?v=05d33f91" width="500"/>
