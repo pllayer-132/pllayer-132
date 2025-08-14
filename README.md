@@ -8,7 +8,9 @@
 
 [my ata!](https://calindean.atabook.org/)
 
-Usually in class so w2i... <img src="https://c.tenor.com/eMAQtbWpyKIAAAAC/tenor.gif" width="180"/>
+Usually in class so w2i... 
+
+<img src="https://c.tenor.com/eMAQtbWpyKIAAAAC/tenor.gif" width="180"/>
 
 
 
