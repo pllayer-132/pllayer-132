@@ -10,11 +10,8 @@
 
 Usually in class so w2i... 
 
-<img src="https://c.tenor.com/eMAQtbWpyKIAAAAC/tenor.gif" width="180"/>
 
-
-
-<img src="https://64.media.tumblr.com/cf7afc875178a62853e0ee6847577fb3/15124a3e3f7e3683-f4/s100x200/6e04b4fce0c473dff2614fbb39f5bd402cb256de.gifv" width="140"/> <img src="https://64.media.tumblr.com/06e41a82c83a209a51ef9491eeb5120f/15124a3e3f7e3683-00/s100x200/a3bb7fea4d208efc37ccf711791ce78c36a731eb.gifv" width="140"/>
+<img src="https://64.media.tumblr.com/cf7afc875178a62853e0ee6847577fb3/15124a3e3f7e3683-f4/s100x200/6e04b4fce0c473dff2614fbb39f5bd402cb256de.gifv" width="140"/>    <img src="https://64.media.tumblr.com/06e41a82c83a209a51ef9491eeb5120f/15124a3e3f7e3683-00/s100x200/a3bb7fea4d208efc37ccf711791ce78c36a731eb.gifv" width="140"/>
 
 
   
