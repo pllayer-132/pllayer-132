@@ -12,7 +12,7 @@ Usually in class so w2i...
 
 
 
-<img src="https://c.tenor.com/eMAQtbWpyKIAAAAC/tenor.gif" width="100"/>
+<img src="https://c.tenor.com/eMAQtbWpyKIAAAAC/tenor.gif" width="180"/>
 
 
 
