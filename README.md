@@ -14,7 +14,7 @@ Usually in class so w2i...
 
 
 
-<img src="https://i.imgur.com/ZtNCHVr.gif" width="500"/>
+<img src="https://i.imgur.com/ZtNCHVr.gif" width="150"/>
 
   
 
