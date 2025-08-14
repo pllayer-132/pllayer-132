@@ -4,7 +4,7 @@
 
 <img src="https://64.media.tumblr.com/cf7afc875178a62853e0ee6847577fb3/15124a3e3f7e3683-f4/s100x200/6e04b4fce0c473dff2614fbb39f5bd402cb256de.gifv" width="100"/>    <img src="https://64.media.tumblr.com/06e41a82c83a209a51ef9491eeb5120f/15124a3e3f7e3683-00/s100x200/a3bb7fea4d208efc37ccf711791ce78c36a731eb.gifv" width="100"/>
 
-[strawpage](https://calendular.straw.page/)  ★  [my ata!](https://calindean.atabook.org/)
+[strawpage](https://calendular.straw.page/)  ⟢  [my ata!](https://calindean.atabook.org/)
 
 <img src="https://media1.tenor.com/m/eMAQtbWpyKIAAAAC/hwang-inho-squid-games.gif" width="180"/>
 
