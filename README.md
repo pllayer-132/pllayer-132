@@ -13,6 +13,8 @@
 
 <img src="https://i.imgur.com/HZhAnBH.png" width="15"/> Usually in class so w2i...
 
+SKINS: Hwang In-ho, Jake Lockley, V2, Foggy Nelson, Nightwing
+
 
 <img src="https://dividers.crd.co/assets/images/gallery06/1a56c58f.png?v=05d33f91" width="500"/>
 
