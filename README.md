@@ -1,4 +1,4 @@
-## WHATUPPP! I'm calin or 132/inho/treux and I am super cool
+## WHATUPPP! I'm calin or 132/inho and I am super cool
 
 ![](https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true)
 
