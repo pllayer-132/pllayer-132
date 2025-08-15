@@ -6,8 +6,6 @@
 
 pfp is a placeholder
 
-I like Hwang In-ho, any DC/Marvel media, roblox and ULTRAKILL !
-
 [strawpage](https://calendular.straw.page/)  ⟢  [my ata!](https://calindean.atabook.org/)
 
 <img src="https://media1.tenor.com/m/eMAQtbWpyKIAAAAC/hwang-inho-squid-games.gif" width="180"/>
