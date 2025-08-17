@@ -8,8 +8,6 @@ pfp is a placeholder
 
 [strawpage](https://calendular.straw.page/)  ⟢  [my ata!](https://calindean.atabook.org/)
 
-<img src="https://media1.tenor.com/m/eMAQtbWpyKIAAAAC/hwang-inho-squid-games.gif" width="180"/>
-
 Usually in class so w2i... 
 
 
