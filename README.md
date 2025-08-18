@@ -7,9 +7,9 @@
 
 pfp is a placeholder
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&duration=2000&pause=2000&color=C75606&center=false&vCenter=true&width=700&lines=Usually+in+class+so+w2i...;c*h+always+encouraged!;int+anytime...+ok...?;check+my+strawpage+too!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=2000&color=C75606&center=false&vCenter=true&width=700&lines=Usually+in+class+so+w2i...;c*h+always+encouraged!;int+anytime...+ok...?;check+my+strawpage+too!)
 
-I love talking to people so I'd definitely strike a convo with you unless it's late in the night for me!
+I love talking to people so I'd definitely strike a convo with you unless it's late in the night for me ;D
 
 [strawpage](https://calendular.straw.page/)  ⟢  [my ata!](https://calindean.atabook.org/)
 
