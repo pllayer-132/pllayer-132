@@ -1,4 +1,4 @@
-## hello world im calin or 132 you should totally talk to me im really cool
+## Helloo!! Im calin or 132 ꩜
 
 ![](https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true)
 
@@ -13,8 +13,7 @@ Usually in class so w2i...
 I love talking to people I'd definitely strike a conversation with you unless it's late in the night for me :)
 
 ![Timezone](https://img.shields.io/badge/Timezone-GMT%2B08:00-c75606)
-
-### My local time
+My local time
 <!--TIME--> updating... <!--ENDTIME-->
 
 
