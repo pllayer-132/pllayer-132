@@ -12,10 +12,9 @@ Usually in class so w2i...
 
 I love talking to people I'd definitely strike a conversation with you unless it's late in the night for me :)
 
-![Timezone](https://img.shields.io/badge/Timezone-GMT%2B08:00-c75606)
+My local time — <!--TIME--> 2025-08-18 17:23:50 +08 <!--ENDTIME-->
 
-My local time
-<!--TIME--> 2025-08-18 17:23:50 +08 <!--ENDTIME-->
+If the code doesn't fail this uhh should update every hour
 
 
 
