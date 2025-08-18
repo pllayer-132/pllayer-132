@@ -10,7 +10,7 @@ pfp is a placeholder
 
 Usually in class so w2i... 
 
-I love talking to people lalalala
+I love talking to people I'd definitely strike a conversation with you unless it's late in the night for me :)
 
 
 
