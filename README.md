@@ -13,6 +13,7 @@ Usually in class so w2i...
 I love talking to people I'd definitely strike a conversation with you unless it's late in the night for me :)
 
 ![Timezone](https://img.shields.io/badge/Timezone-GMT%2B08:00-c75606)
+
 My local time
 <!--TIME--> updating... <!--ENDTIME-->
 
