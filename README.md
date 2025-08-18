@@ -7,7 +7,7 @@
 
 pfp is a placeholder
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=C75606&center=false&vCenter=true&width=700&lines=Usually+in+class+so+w2i...;I+love+talking+to+people+so+I'd+definitely+strike+a+convo+with+you+unless+it's+late+in+the+night+for+me!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=C75606&center=false&vCenter=true&width=700&lines=Usually+in+class+so+w2i...;I+love+talking+to+people;so+I'd+definitely+strike+a+convo+with+you;unless+it's+late+in+the+night+for+me!)
 
 
 [strawpage](https://calendular.straw.page/)  ⟢  [my ata!](https://calindean.atabook.org/)
