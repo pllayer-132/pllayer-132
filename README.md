@@ -1,6 +1,6 @@
 ## Helloo!! Im calin or 132 ꩜
 
-![Calin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pllayer-132&show_icons=true&theme=tokyonight)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 ![](https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true)
