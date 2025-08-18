@@ -10,6 +10,8 @@ pfp is a placeholder
 
 Usually in class so w2i... 
 
+I love talking to people lalalala
+
 
 
 
