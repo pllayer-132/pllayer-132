@@ -2,14 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true)
 
-<img src="https://i.imgur.com/1ZQZ1Zm.gif" alt="stars" width="400"/>
-
 
 <img src="https://64.media.tumblr.com/cf7afc875178a62853e0ee6847577fb3/15124a3e3f7e3683-f4/s100x200/6e04b4fce0c473dff2614fbb39f5bd402cb256de.gifv" width="100"/>    <img src="https://64.media.tumblr.com/06e41a82c83a209a51ef9491eeb5120f/15124a3e3f7e3683-00/s100x200/a3bb7fea4d208efc37ccf711791ce78c36a731eb.gifv" width="100"/>
 
 pfp is a placeholder
 
 [strawpage](https://calendular.straw.page/)  ⟢  [my ata!](https://calindean.atabook.org/)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C75606&center=false&vCenter=true&width=435&lines=Usually+in+class+so+w2i...;I+love+talking+to+people+so+I'd+definitely+strike+a+convo+with+you+unless+it's+late+in+the+night+for+me+:))
 
 Usually in class so w2i... 
 
