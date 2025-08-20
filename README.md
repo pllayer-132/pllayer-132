@@ -9,7 +9,7 @@ pfp is a placeholder. as a matter of fact everything here is a WIP lmao
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=C75606&center=false&vCenter=true&width=700&lines=Usually+in+class+so+w2i...;c*h+always+encouraged!;int+anytime...+ok...?;check+my+strawpage+too!)
 
-I love talking to people so I'd definitely strike a convo with you unless it's late in the night for me ;D
+I love talking to people so do int! :D
 
 [strawpage](https://calendular.straw.page/)  ⟢  [my ata!](https://calindean.atabook.org/)
 
