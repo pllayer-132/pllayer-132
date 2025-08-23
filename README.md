@@ -1,4 +1,4 @@
-## Helloo!! Im calin or 132 ꩜
+## Hello! Im calin or inho ꩜
 
 ![](https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true)
 
