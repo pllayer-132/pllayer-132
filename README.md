@@ -13,7 +13,7 @@ pfp is a placeholder. as a matter of fact everything here is a WIP lmao
 [check strawpage](https://calendular.straw.page/)  ⟢  [sign ata!](https://calindean.atabook.org/)
 
 
-My local time — <!--TIME--> 2025-08-25 12:21:56 +08 <!--ENDTIME-->
+My local time — <!--TIME--> 2025-08-25 13:15:57 +08 <!--ENDTIME-->
 
 
 
