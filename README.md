@@ -1,7 +1,5 @@
 ## WHATUPP! Im calin or 132 ꩜
 
-![](https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true)
-
 
 <img src="https://i.imgur.com/2m6iwnP.png" width=700/>
 
@@ -15,6 +13,7 @@
 
 [check strawpage](https://calendular.straw.page/)  ⟢  [sign ata!](https://calindean.atabook.org/)
 
+![](https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true)
 
 My local time — <!--TIME--> 2025-08-27 23:15:20 +08 <!--ENDTIME-->
 
