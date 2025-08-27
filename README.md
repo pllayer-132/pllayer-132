@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true)
 
 
-<img src="https://i.imgur.com/2m6iwnP.png" />
+<img src="https://i.imgur.com/2m6iwnP.png" width=700/>
 
 everything here is a WIP lmao
 
