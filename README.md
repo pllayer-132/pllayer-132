@@ -1,8 +1,4 @@
-## whatsupp
-
-
 <img src="https://i.imgur.com/2m6iwnP.png" width=600/>
-
 
 <p align="center">
   
