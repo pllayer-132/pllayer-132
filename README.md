@@ -1,7 +1,7 @@
 ## WHATUPP! Im calin or 132 ꩜
 
 
-<img src="https://i.imgur.com/2m6iwnP.png" width=1000/>
+<img src="https://i.imgur.com/2m6iwnP.png" width=500/>
 
 
 <p align="center">
