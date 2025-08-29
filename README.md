@@ -13,10 +13,13 @@
 
 
   <img src="https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true" alt="views"/>
+  
+<br/><br/>
 
-  <br/><br/>
+<span style="font-family:'Times New Roman', serif; color:#C75606; font-style:italic;">
+  Anyone under 15 do iwc sob
+</span>
 
-  <span style="font-family:'Times New Roman', serif; color:#C75606;"> Anyone under 15 do iwc sob </span>
 
 
 </div>
