@@ -16,7 +16,7 @@
   
 <br/><br/>
 
-$${\color{yellow} Anyone \space under \space 15 \space do \space iwc ... \space sob}$$	
+$${\color{black} Anyone \space under \space 15 \space do \space iwc ... \space sob}$$	
 
  
 
