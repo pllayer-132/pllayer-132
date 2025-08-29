@@ -16,7 +16,7 @@ My local time — <!--TIME--> 2025-08-30 02:19:42 +08 <!--ENDTIME-->
 <p align="center">
 
 
-  ~~Anyone under 15 do iwc :sob:~~
+  Anyone under 15 do iwc :sob:
 
 </p>
 
