@@ -16,9 +16,9 @@
   
 <br/><br/>
 
- <code style="color : darkorange">>Anyone under 15 do iwc ... sob</code
+$${\color{yellow} Anyone under 15 do iwc ... sob}$$	
 
-
+ 
 
 </div>
 
