@@ -16,9 +16,8 @@
   
 <br/><br/>
 
-<span style="font-family:'Times New Roman', serif; color:#C75606; font-style:italic;">
-  Anyone under 15 do iwc sob
-</span>
+<font color="#C75606"><i>Anyone under 15 do iwc sob</i></font>
+
 
 
 
