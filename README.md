@@ -16,7 +16,7 @@
   
 <br/><br/>
 
-$${\color{yellow} Anyone under 15 do iwc ... sob}$$	
+$${\color{yellow} Anyone \space under \space 15 \space do \space iwc ... \space sob}$$	
 
  
 
