@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/2m6iwnP.png" width="600" alt="header"/>
+  <img src="https://i.imgur.com/2m6iwnP.png" width="1000" alt="header"/>
 
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=C75606&center=true&vCenter=true&width=700&lines=Usually+in+class+so+w2i...;c*h+always+encouraged!;int+anytime...+ok...?;check+my+strawpage+too!)" 
