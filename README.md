@@ -6,13 +6,11 @@
     alt="typing"
   />
 
-  <br/><br/>
 
   <a href="https://calendular.straw.page/">check strawpage</a>
   ⟢
   <a href="https://calindean.atabook.org/">sign ata!</a>
 
-  <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true" alt="views"/>
 
