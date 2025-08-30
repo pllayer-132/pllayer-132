@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/2m6iwnP.png" width="600" alt="header"/>
+  <img src="https://i.imgur.com/dUNpT2f.png" width="600" alt="header"/>
 
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=C75606&center=true&vCenter=true&width=700&lines=Usually+in+class+so+w2i...;c*h+always+encouraged!;int+anytime...+ok...?;check+my+strawpage+too!)" 
@@ -13,6 +13,9 @@
 
 
   <img src="https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true" alt="views"/>
+
+  <img src="https://i.imgur.com/hXdd7Bp.png" width="600" alt="header"/>
+
   
 <br/><br/>
 
