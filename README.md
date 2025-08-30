@@ -13,15 +13,11 @@
 
 
   <img src="https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true" alt="views"/>
+  
 
-  <img src="https://i.imgur.com/hXdd7Bp.png" width="600" alt="header"/>
+  <img src="https://i.imgur.com/hXdd7Bp.png" width="600"/>
 
   
-<br/><br/>
-
-
- 
-
 </div>
 
 
