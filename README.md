@@ -14,7 +14,7 @@
   ⟢
   <a href="https://calindean.atabook.org/">sign ata!</a>
 
-  <img src="https://i.imgur.com/hXdd7Bp.png" width="650"/>
+  <img src="https://i.imgur.com/hXdd7Bp.png" width="600"/>
 
 
 </div>
