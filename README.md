@@ -16,7 +16,6 @@
   
 <br/><br/>
 
-$${\color{orange} Anyone \space under \space 15 \space iwc ... \space sob}$$	
 
  
 
