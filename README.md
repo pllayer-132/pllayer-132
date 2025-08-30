@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/dUNpT2f.png" width="500" alt="header"/>
+  <img src="https://i.imgur.com/dUNpT2f.png" width="700" alt="header"/>
 
   <br/><br/>
 
@@ -14,13 +14,13 @@
   ⟢
   <a href="https://calindean.atabook.org/">sign ata!</a>
 
-  <img src="https://64.media.tumblr.com/bb3998e6b5f3a46cd8a16694748cb9c0/e3071721f0e9ec15-6c/s250x400/f64682b2940e5c424dd836314989c9b7cf458e5f.pnj" width="100"/>
-  <img src="https://64.media.tumblr.com/4a13830dd275bcafd1482e1dbb1fc45e/473928ea48888009-f0/s100x200/a8cd6e26130895738be1887f4bbdebaa7a0b4689.gifv" width="100"/>
-  <img src="https://64.media.tumblr.com/350f1ef0a2606ea6c8210974e8135e34/3c7512c789785a26-99/s100x200/ee7b1fb477672683a8e87bcb7d81a7750a8414a0.pnj" width="100"/>
+  <img src="https://64.media.tumblr.com/bb3998e6b5f3a46cd8a16694748cb9c0/e3071721f0e9ec15-6c/s250x400/f64682b2940e5c424dd836314989c9b7cf458e5f.pnj" width="60"/>
+  <img src="https://64.media.tumblr.com/4a13830dd275bcafd1482e1dbb1fc45e/473928ea48888009-f0/s100x200/a8cd6e26130895738be1887f4bbdebaa7a0b4689.gifv" width="60"/>
+  <img src="https://64.media.tumblr.com/350f1ef0a2606ea6c8210974e8135e34/3c7512c789785a26-99/s100x200/ee7b1fb477672683a8e87bcb7d81a7750a8414a0.pnj" width="60"/>
 
   <br/><br/>
 
-  <img src="https://i.imgur.com/hXdd7Bp.png" width="450"/>
+  <img src="https://i.imgur.com/hXdd7Bp.png" width="650"/>
 
 
 </div>
