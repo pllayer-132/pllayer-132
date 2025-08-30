@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/dUNpT2f.png" width="600" alt="header"/>
+  <img src="https://i.imgur.com/dUNpT2f.png" width="400" alt="header"/>
 
   <br/><br/>
 
@@ -20,7 +20,7 @@
 
   <br/><br/>
 
-  <img src="https://i.imgur.com/hXdd7Bp.png" width="600"/>
+  <img src="https://i.imgur.com/hXdd7Bp.png" width="350"/>
 
 
 </div>
