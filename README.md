@@ -1,5 +1,8 @@
 <div align="center">
 
+  <img src="https://i.imgur.com/fuPMvj5.jpeg" width="600"/>
+
+
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=C75606&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!)" 
     alt="typing"
