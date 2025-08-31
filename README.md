@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/eb21c341-2eee-4e6b-bab0-80363d1ca96a" /><div align="center">
+<div align="center">
 
   <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195339886592/Untitled16_20250831173740.png?ex=68b56978&is=68b417f8&hm=3dcfe7fec5c54eb93af10d96210dfcee1c608b4a43aa4a045969fffee035d13b&=&format=webp&quality=lossless&width=1448&height=1448" width="500" style="margin:5px 0;"/>
 
