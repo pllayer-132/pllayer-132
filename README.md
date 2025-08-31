@@ -1,6 +1,6 @@
-<div align="center">
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/eb21c341-2eee-4e6b-bab0-80363d1ca96a" /><div align="center">
 
-  <img src="https://media.discordapp.net/attachments/993815413018337330/1411642674280136724/Untitled16_20250831172257.png?ex=68b56630&is=68b414b0&hm=41a00c225f465c367c9148585f001c5d09257a245db458f7d023f14feb4d24b9&=&format=webp&quality=lossless&width=1656&height=1656" width="500" style="margin:5px 0;"/>
+  <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195339886592/Untitled16_20250831173740.png?ex=68b56978&is=68b417f8&hm=3dcfe7fec5c54eb93af10d96210dfcee1c608b4a43aa4a045969fffee035d13b&=&format=webp&quality=lossless&width=1448&height=1448" width="500" style="margin:5px 0;"/>
 
   <div>
     <img src="https://64.media.tumblr.com/41c942506c7e91ff3b97cc77d6641eb4/15dd7e1a372ddd71-d0/s250x400/d6beb792537426901a7907997d60055453a6e511.pnj" width="100"/>
@@ -19,7 +19,7 @@
     style="margin:5px 0;"
   />
 
-  <img src="https://i.imgur.com/hXdd7Bp.png" width="600" style="margin:5px 0;"/>
+  <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195729698836/Untitled15_20250831173652.png?ex=68b56978&is=68b417f8&hm=a2e613f947f5cf4f29aa081495b0ebee4165e3d8b7417f711ecde450b7892994&=&format=webp&quality=lossless&width=2576&height=858" width="600" style="margin:5px 0;"/>
 
 </div>
 
