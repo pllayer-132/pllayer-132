@@ -1,4 +1,8 @@
+![](https://komarev.com/ghpvc/?username=pllayer-132&color=c75606&style=flat-square&label=PLAYERS-STABBED&base=50&abbreviated=true)
+
+
 <div align="center">
+
 
 
   <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195339886592/Untitled16_20250831173740.png?ex=68b56978&is=68b417f8&hm=3dcfe7fec5c54eb93af10d96210dfcee1c608b4a43aa4a045969fffee035d13b&=&format=webp&quality=lossless&width=1448&height=1448" width="400" style="margin:4px 0;"/>
@@ -26,7 +30,10 @@
 
   <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195729698836/Untitled15_20250831173652.png?ex=68b56978&is=68b417f8&hm=a2e613f947f5cf4f29aa081495b0ebee4165e3d8b7417f711ecde450b7892994&=&format=webp&quality=lossless&width=2576&height=858" width="600" style="margin:4px 0;"/>
 
+
+
 </div>
+
 
 
 
