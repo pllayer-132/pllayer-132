@@ -1,5 +1,11 @@
 <div align="center">
 
+<img 
+    src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=C75606&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!)" 
+    alt="typing"
+    style="margin:4px 0;"
+  />
+
   <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195339886592/Untitled16_20250831173740.png?ex=68b56978&is=68b417f8&hm=3dcfe7fec5c54eb93af10d96210dfcee1c608b4a43aa4a045969fffee035d13b&=&format=webp&quality=lossless&width=1448&height=1448" width="400" style="margin:4px 0;"/>
 
   <div>
@@ -13,11 +19,7 @@
     <a href="https://calindean.atabook.org/">sign ata!</a>
   </div>
 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=C75606&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!)" 
-    alt="typing"
-    style="margin:4px 0;"
-  />
+  
 
   <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195729698836/Untitled15_20250831173652.png?ex=68b56978&is=68b417f8&hm=a2e613f947f5cf4f29aa081495b0ebee4165e3d8b7417f711ecde450b7892994&=&format=webp&quality=lossless&width=2576&height=858" width="400" style="margin:4px 0;"/>
 
