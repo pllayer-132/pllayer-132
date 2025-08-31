@@ -20,7 +20,7 @@
     style="margin:5px 0;"
   />
 
-  <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195729698836/Untitled15_20250831173652.png?ex=68b56978&is=68b417f8&hm=a2e613f947f5cf4f29aa081495b0ebee4165e3d8b7417f711ecde450b7892994&=&format=webp&quality=lossless&width=2576&height=858" width="600" style="margin:5px 0;"/>
+  <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195729698836/Untitled15_20250831173652.png?ex=68b56978&is=68b417f8&hm=a2e613f947f5cf4f29aa081495b0ebee4165e3d8b7417f711ecde450b7892994&=&format=webp&quality=lossless&width=2576&height=858" width="400" style="margin:5px 0;"/>
 
 </div>
 
