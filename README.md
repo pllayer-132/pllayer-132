@@ -20,6 +20,16 @@
 
 </div>
 
+<style>
+  img {
+    display:block;
+    margin:4px auto; /* adjust spacing */
+  }
+  div[align="center"] {
+    line-height:0; /* removes text gaps */
+  }
+</style>
+
 
 
 
