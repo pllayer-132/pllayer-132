@@ -1,6 +1,8 @@
-  <img src="https://64.media.tumblr.com/1abc1f3d8d4b621de288f520f6431165/b39aded609ece7b4-6a/s2048x3072/e4788cbce2806cddb2442c60f001a0a661816a14.pnj" width="800" style="margin:5px 0;"/>
 
 <div align="center">
+
+  <img src="https://64.media.tumblr.com/1abc1f3d8d4b621de288f520f6431165/b39aded609ece7b4-6a/s2048x3072/e4788cbce2806cddb2442c60f001a0a661816a14.pnj" width="800" style="margin:5px 0;"/>
+
 
   <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195339886592/Untitled16_20250831173740.png?ex=68b56978&is=68b417f8&hm=3dcfe7fec5c54eb93af10d96210dfcee1c608b4a43aa4a045969fffee035d13b&=&format=webp&quality=lossless&width=1448&height=1448" width="400" style="margin:5px 0;"/>
 
