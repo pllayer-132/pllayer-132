@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://media.discordapp.net/attachments/993815413018337330/1411642674280136724/Untitled16_20250831172257.png?ex=68b56630&is=68b414b0&hm=41a00c225f465c367c9148585f001c5d09257a245db458f7d023f14feb4d24b9&=&format=webp&quality=lossless&width=1656&height=1656" width="400"/>
-
+  <img src="https://media.discordapp.net/attachments/993815413018337330/1411642674280136724/Untitled16_20250831172257.png?ex=68b56630&is=68b414b0&hm=41a00c225f465c367c9148585f001c5d09257a245db458f7d023f14feb4d24b9&=&format=webp&quality=lossless&width=1656&height=1656" width="500"/>
 
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=C75606&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!)" 
