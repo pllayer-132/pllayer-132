@@ -1,8 +1,5 @@
 <div align="center">
 
-
-  <br/><br/>
-
   <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195339886592/Untitled16_20250831173740.png?ex=68b56978&is=68b417f8&hm=3dcfe7fec5c54eb93af10d96210dfcee1c608b4a43aa4a045969fffee035d13b&=&format=webp&quality=lossless&width=1448&height=1448" width="400" style="margin:4px 0;"/>
 
   <div>
