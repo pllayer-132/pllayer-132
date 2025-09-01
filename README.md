@@ -28,7 +28,7 @@
 
   
 
-  <img src="https://media.discordapp.net/attachments/993815413018337330/1411646195729698836/Untitled15_20250831173652.png?ex=68b56978&is=68b417f8&hm=a2e613f947f5cf4f29aa081495b0ebee4165e3d8b7417f711ecde450b7892994&=&format=webp&quality=lossless&width=2576&height=858" width="600" style="margin:4px 0;"/>
+  <img src="https://media.discordapp.net/attachments/993815413018337330/1411907571719340113/Untitled15_20250901105548.png?ex=68b65ce5&is=68b50b65&hm=b32399ac3770223cbb94142560841105ff4484ae8b2d4f56c6061b2b9a4ba269&=&format=webp&quality=lossless&width=2784&height=928" width="600" style="margin:4px 0;"/>
 
 
 
