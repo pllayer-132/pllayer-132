@@ -20,8 +20,8 @@
 
 
   <div style="margin:4px 0;">
-    <a href="https://calendular.straw.page/">check strawpage</a> ⟢
-    <a href="https://calindean.atabook.org/">sign ata!</a>
+    <a href="https://calendular.straw.page/">STRAWPAGE</a> ⟢
+    <a href="https://calindean.atabook.org/">SIGN ATA!</a>
   </div>
 
   
